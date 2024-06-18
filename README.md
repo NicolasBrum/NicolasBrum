@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, bem vindo ao meu perfil do Github.
+<p>Me chamo Nicolas, tenho 23 anos e sou estudante de engenharia de software na <strong>Uniasselvi</strong>.</p>
+<p>Desde criança sempre gostei de tecnologia, meu primeiro contato com a programação foi no curso de Jogos Digitais.</p>
+<p>Busco uma oportunidade para trabalhar na área de desenvolvimento web, como <strong>back-end</strong>.</p>
 
-<!--
-**NicolasSykes19/NicolasSykes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Tecnologias que tenho conhecimento:
+- <table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=100 height=100></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=100 height=100></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=100 height=100></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=100 height=100></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=100 height=100></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como entrar em contato comigo: <i>nicolasvlb.tech@gmail.com</i>
