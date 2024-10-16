@@ -15,4 +15,4 @@
 </table>
 
 - 📫 Como entrar em contato comigo: <i>nicolasvlb.tech@gmail.com</i><br><br>
-[![NicolasSykes19](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSykes19&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![NicolasSykes19](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBrum&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
