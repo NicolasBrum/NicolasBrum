@@ -1,7 +1,6 @@
 # 👋 Olá, bem vindo ao meu perfil do Github.
-<p>Me chamo Nicolas, tenho 23 anos e sou estudante de engenharia de software na <strong>Uniasselvi</strong>.</p>
+<p>Me chamo Nicolas, tenho 24 anos e sou estudante de engenharia de software na <strong>Uniasselvi</strong>.</p>
 <p>Desde criança sempre gostei de tecnologia, meu primeiro contato com a programação foi no curso de Jogos Digitais.</p>
-<p>Busco uma oportunidade para trabalhar na área de desenvolvimento web, como <strong>back-end</strong>.</p>
 
 - 🌱 Tecnologias que tenho conhecimento:
 - <table>
@@ -14,6 +13,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=100 height=100></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=100 height=100></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width=100 height=100></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width=100 height=100/></td>
   </tr>
 </table>
 
