@@ -1,9 +1,10 @@
 # 👋 Olá, bem vindo ao meu perfil do Github.
-<p>Me chamo Nicolas, tenho 24 anos e sou estudante de engenharia de software na <strong>Uniasselvi</strong>.</p>
+<p>Me chamo Nicolas, tenho 24 anos e sou estudante de análise e desenvolvimento de sistemas no <strong>Senac</strong>.</p>
 <p>Desde criança sempre gostei de tecnologia, meu primeiro contato com a programação foi no curso de Jogos Digitais.</p>
+<p>Atualmente sou estagiário na <strong>WhiteCube</strong> como desenvolvedor/engenheiro de dados.</p>
 
-- 🌱 Tecnologias que tenho conhecimento:
-- <table>
+🌱 Tecnologias que tenho conhecimento:
+<table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=100 height=100></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=100 height=100></td>
@@ -18,4 +19,4 @@
 </table>
 
 - 📫 Como entrar em contato comigo: <i>nicolasvlb.tech@gmail.com</i><br><br>
-[![NicolasSykes19](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBrum&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![NicolasBrum](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBrum&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
