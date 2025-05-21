@@ -1,7 +1,7 @@
 # 👋 Olá, bem vindo ao meu perfil do Github.
 <p>Me chamo Nicolas, tenho 24 anos e sou estudante de análise e desenvolvimento de sistemas no <strong>Senac</strong>.</p>
 <p>Desde criança sempre gostei de tecnologia, meu primeiro contato com a programação foi no curso de Jogos Digitais.</p>
-<p>Atualmente sou estagiário na <strong>WhiteCube</strong> como desenvolvedor/engenheiro de dados.</p>
+<p>Atualmente atuo como engenheiro de dados na <strong>WhiteCube</strong>. Mas já atuei como desenvolvedor back-end.</p>
 
 🌱 Tecnologias que tenho conhecimento:
 <table>
