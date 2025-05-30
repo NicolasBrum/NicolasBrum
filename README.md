@@ -9,6 +9,6 @@
 </tr> </table> </div>
           
           
-
+- Currículo online: <a href="https://nicolasbrum.github.io/my_portfolio/">Clique aqui</a>
 - 📫 Como entrar em contato comigo: <i>nicolasvlb.tech@gmail.com</i><br><br>
 [![NicolasBrum](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBrum&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
